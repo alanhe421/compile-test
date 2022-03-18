@@ -1,1 +1,1 @@
-console.log("track infomation");
+console.log("track infomation"),console.log(2),console.log("combine logic");

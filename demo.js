@@ -8,3 +8,9 @@ if (CODE_FOR_IE) {
 if (CODE_FOR_CHROME) {
   foo = 2;
 }
+
+console.log(foo);
+
+if (CODE_FOR_IE && CODE_FOR_CHROME) {
+  console.log('combine logic')
+}
